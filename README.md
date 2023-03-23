@@ -1,3 +1,6 @@
+This is a fork of @mcanouil's quarto extesion. This fork implements the koma script classes to provide better support for German standard letter formats (DIN-Brief).
+It's a work in progress.
+
 # Letter Format Template
 
 This is a Quarto template that assists you in creating a manuscript using the letter format.
